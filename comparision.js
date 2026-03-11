@@ -19,5 +19,5 @@ console.log(undefined > 0) //false
 console.log(undefined < 0) //false
 console.log(undefined >= 0) //false
 
-//**Important **/
+//**Important **//
 console.log("2" === 2) // === strictly checks without any type conversion
