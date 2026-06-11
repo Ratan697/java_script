@@ -74,3 +74,17 @@ const {developer} = course
 console.log(developer)      //Ratan
 const {developer : dev} = course
 console.log(dev)        //Ratan
+
+
+// ----API Structure----
+// {
+//     name : "Ratan",
+//     "website" : "localstock",
+//     "price" : "free"
+// }
+
+// [
+//     {},
+//     {},
+//     {}
+// ]
