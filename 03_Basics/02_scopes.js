@@ -66,13 +66,14 @@
 
 // ----------------  INTERESTING    -------------
 
-console.log(addone(1))
-function addone(num){
-        return num+1
-}
+// console.log(addone(1))      //2
+// function addone(num){
+//         return num+1
+// }
 
 
-addTwo(5)
-const addTwo = function(num){
-    return num+2
-}
+// addTwo(5)       //Cannot access 'addTwo' before initialization
+// const addTwo = function(num){
+//     return num+2
+// }
+
